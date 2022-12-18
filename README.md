@@ -23,7 +23,6 @@ A aplicação consiste em criar um projeto usando o framework Spring Boot
 
 ![domain interface](https://user-images.githubusercontent.com/112667015/208174071-b62fff96-906b-4437-bfe8-791765ec1702.png)
 
-![logical layer](https://user-images.githubusercontent.com/112667015/208174739-98e6b107-0757-4ef0-92da-398dca6432e0.png)
 
 
 
