@@ -1,6 +1,6 @@
 # workshop-springboot3-jpa
 
-[![NPM](https://github.com/lluanps/workshop-springboot3-jpa/blob/main/LICENSE) 
+[![[License](https://img.shields.io/github/license/{username}/{repo-name}.svg)](https://github.com/lluanps/workshop-springboot3-jpa/blob/main/LICENSE)
 
 # Sobre o projeto
 
