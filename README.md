@@ -5,7 +5,7 @@
 # Sobre o projeto
 
 
-Projeto feito no curso de Java OOP do professor Nelio Alves.
+Projeto feito no curso de Java POO do professor Nelio Alves.
 
 A aplicação consiste em criar um projeto usando o framework Spring Boot
 
