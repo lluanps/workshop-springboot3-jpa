@@ -1,6 +1,7 @@
 # workshop-springboot3-jpa
 
-[![[License](https://img.shields.io/github/license/{username}/{repo-name}.svg)](https://github.com/lluanps/workshop-springboot3-jpa/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/lluanps/workshop-springboot3-jpa/blob/main/LICENSE)
+
 
 # Sobre o projeto
 
